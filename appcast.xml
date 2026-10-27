@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bundl OS</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 27 Oct 2026 17:44:35 +0530</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bundl-AI/bundl-os-mac-releases/releases/download/v0.2.1/BundlOS-0.2.1-43.zip" length="6005014" type="application/octet-stream" sparkle:edSignature="6NLMBUiwMG3uee8XDgUza9AlxjL3Qcxt9ve459337lMk01WiiUMnp3tPHzrz8RqxdrQJWyzr+MmmodNqu/jPBQ=="/>
+        </item>
+    </channel>
+</rss>
